@@ -9,6 +9,7 @@
 </div>
 
 ---
+![WebApp Example](assets/model_example_webapp.png)
 
 ## Overview
 Vision Transformers (ViTs) achieve state-of-the-art performance in computer vision but famously require massive datasets to overcome their lack of inherent spatial inductive biases. This project investigates how **Knowledge Distillation (KD)** can bridge this gap. 
