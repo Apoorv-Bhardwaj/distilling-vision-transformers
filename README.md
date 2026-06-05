@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🔍 Distilling Vision: Knowledge Transfer in Transformers</h1>
+  <h1>Distilling Vision: Knowledge Transfer in Transformers</h1>
   <p><i>A Comparative Study of Knowledge Distillation Techniques for Vision Transformers under Limited Training Data</i></p>
 
   [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
@@ -58,13 +58,3 @@ A core component of this study was tracking how the models "learn to see." Using
 ![Attention Comparison Grid](assets/attention_outputs/attention_grid_0.png)
 
 ---
-
-## Repository Structure
-
-```text
-├── assets/                  # Directory containing attention map images
-├── notebooks/               # Jupyter notebooks for training and evaluation
-│   └── training_distillation.ipynb
-├── app.py                   # Gradio application for Hugging Face deployment
-├── requirements.txt         # Project dependencies
-└── README.md                # Project documentation
