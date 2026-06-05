@@ -54,8 +54,8 @@ A core component of this study was tracking how the models "learn to see." Using
 1. **The "Collapse" of Vanilla Attention:** At 10% and 25% data regimes, the vanilla ViT fails to localize subjects, with its attention often collapsing to a single background point or scattering randomly.
 2. **Distillation as Inductive Bias:** The low-data DeiT immediately locks onto primary subjects (matching the ResNet-18 baseline). It successfully inherits the teacher's broad focus while retaining a granular, patch-based texture.
 
-*(Replace the path below with the actual path to your image in the repository)*
-![Attention Comparison Grid](assets/attention_grid_0.jpg)
+
+![Attention Comparison Grid](assets/attention_outputs/attention_grid_0.png)
 
 ---
 
